@@ -5,9 +5,10 @@ Requires [node.js](https://nodejs.org/en/) and [express.js](https://expressjs.co
 ## Directory Structure
 
 src
-
  └─── configs               # Configuration related stuff
+ 
  └─── contrrollers          # Controllers for all the endpoints
+ 
  └─── db
        └─── models          # Object Models
  └─── middleware            # Check API access
