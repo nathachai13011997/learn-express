@@ -11,7 +11,6 @@ src
  └─── contrrollers          # Controllers for all the endpoints
  
  └─── db
- 
        └─── models          # Object Models
        
  └─── middleware            # Check API access
